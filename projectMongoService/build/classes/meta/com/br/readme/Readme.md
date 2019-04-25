@@ -13,19 +13,7 @@ Com produtos medicamento  com foto e pre�o.
  
  2. Java 8 SE
  
- 3. Jersey Rest Service - configurado no XML - package (meta.com.br.service)
- 
- 4. SonarLint 4.1
- 
- 5. Junit 4
- 
- 6. CorsFilter
- 
- 7. SoaUI 5.5
- 
- 8. Angular 7 
- 
- 9. Mock
+
  
  10. site da bandeira - https://aimore.net/bandeiras.htm. 
 
